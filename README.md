@@ -43,6 +43,9 @@ A research-grade EdTech dataset containing student interaction logs, assessment 
 
 > Raw data is preserved for transparency and reproducibility.
 
+🔗 **Dataset Link:**  
+[Open University Learning Analytics Dataset (OULAD)](https://www.kaggle.com/datasets/rocki37/open-university-learning-analytics-dataset)
+
 ---
 
 ## ⚙️ Methodology Overview
@@ -109,7 +112,7 @@ A research-grade EdTech dataset containing student interaction logs, assessment 
 ## 📂 Repository Structure
 
 ```
-EdTech-Student-Churn/
+EdTech-Student-Churn Analytics/
 │
 ├── data/
 │   ├── raw/
@@ -131,7 +134,7 @@ EdTech-Student-Churn/
 │   └── 05_explainability_shap.ipynb
 │
 ├── dashboard/
-│   └── power_bi_dashboard_design.md
+│   └── power_bi_dashboard_design.md   # future 
 │
 └── README.md
 
@@ -169,7 +172,7 @@ jupyter notebook notebooks/01_data_understanding.ipynb
 ```
 ---
 
-## 📧 Contact
+## 📧 Reach me at:
 
 **Contact:** [tirthchankeshwara@gmail.com](mailto:tirthchankeshwara@gmail.com)
 
